@@ -1,5 +1,5 @@
 import operator
-import model
+import model.py
 
 import cv2  # for open cv library functions
 from cvzone.HandTrackingModule import HandDetector  # To detect the hand in the image
